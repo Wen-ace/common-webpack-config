@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin : 0;
+}img {
+  background-image: url(http://cdn.example.com/src/images/3.56a5debe.png);
+  display: block;
+  margin-top: 100px;
+}
+img p {
+  width: 100%;
+}
