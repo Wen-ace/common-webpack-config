@@ -118,4 +118,7 @@ module.exports = {
     },
     devtool: 'source-maps',
     stats: 'errors-only',
+    //externals: {
+    //   'src/js/jq.js': '$'
+    //}
 };
